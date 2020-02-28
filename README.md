@@ -15,9 +15,9 @@
 <li>Frame2 : 按鍵位置不固定的數字鍵盤</li>
 <li>hannoi : 輸入正整數 n 然後統計移動完 n 層的河內塔要多少步驟</li>
 <li>HowmanyToBeOr : 統計一串文字中分別有多少 "to" "be" "or"</li>
-<li>PerfectNumber : 找出小於 1000 的完美數(除了自身以外所有因數總和等於該數值) 例如 6 的因數有 1 2 3 6 而且 1+2+3=6</li>
+<li>PerfectNumber : 找出小於 1000 的完美數(除了自身以外 所有因數總和等於該數值) 例如 6 的因數有 1 2 3 6 而且 1+2+3=6</li>
 <li>poker : 發鋪克牌給 4 名玩家</li>
-<li>PythagoreanTriple</li>
+<li>PythagoreanTriple : 在每個邊長小於 500 的情況下 找出有幾種直角三角形(底邊 和 高邊 數值互換分別算一種)</li>
 <li>Shapes : 畫圖型練習</li>
 <li>SinCos : 畫出 sin 或 cos 的圖形</li>
 <li>ThreadSum : 使用多執行序計算</li>
